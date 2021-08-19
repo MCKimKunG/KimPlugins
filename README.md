@@ -1,1 +1,2 @@
 # KimPlugins
+🌍 KimKunG Pluging Version
