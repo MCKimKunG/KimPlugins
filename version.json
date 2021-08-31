@@ -1,1 +1,4 @@
-kmplugin:[{"name": "KmPlugins", "version": "1.0", "public": false},{"name": "KmLibrary", "version": "1.0", "public": false}]
+{
+  "KmPlugins": {"version":"1.3", "public": "false"},
+  "KmRealms": {"version":"1.0", "public": "false"}
+}
