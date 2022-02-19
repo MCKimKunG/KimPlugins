@@ -1,5 +1,6 @@
 {
   "KmPlugins": {"version": "1.4", "public": "false"},
   "KmRealms": {"version": "1.0", "public": "false"},
-  "KmPrivate": {"version": "1.0", "public": "true"}
+  "KmPrivate": {"version": "1.0", "public": "true"},
+  "Km144Hz": {"version": "1.5", "public": "false"}
 }
