@@ -1,3 +1,4 @@
 {
- "KimKunG":{"id": 0, "skin": "", "url": ""}
+ "KimKunG":{"id": 0, "skin": "skins/afb205b8ba8c3ac0f9ccd1ac98003db2f0b94f80", "uuid": "b498cb78-bcff-4127-8c55-01e86e7b7954"},
+ "KimKunG_Space":{"id": 1, "skin": "textures/entity/skin/space.png", "uuid": "b498cb78-bcff-4127-8c55-01e86e7b7954"}
 }
